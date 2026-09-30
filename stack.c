@@ -25,8 +25,7 @@ int main()
     push(20);
     push(30);
     push(35);
-    push(40);
-   //gitgit push(45);
+    push(40);git
 
 
     return 0;
